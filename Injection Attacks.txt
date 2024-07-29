@@ -1,0 +1,8 @@
+
+1.SQL Injection Attacks
+-->It's a code injection technique used to modify or retrieve data form SQL Database.
+2.HTTP HedaderAttck
+-->*HTML injection or cross site scripting
+-->*It's security vulnerability that also an attackers to inject html code into webpages that are veiwed by other user's.
+3.OS Commands
+-->It's cyber attacks that involves executing orbitary command or host operating system.In this threat actor injects the command by exploting an application vulnerability such as insueffernt input validation.
